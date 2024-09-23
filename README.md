@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Gade </h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/1d/28/7c/1d287c58077648764e6a94b69b321956.jpg" />
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg" />
 
-<p align="left"> <img src=https://pin.it/3ndBXBrnK alt="RushikeshGade" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/564x/1d/28/7c/1d287c58077648764e6a94b69b321956.jpg" alt="RushikeshGade" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
