@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Gade </h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg" />
+<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/99501473014937191/sent/?invite_code=6178884f266946e3a433b28a6829845a&sender=1085367716354946206&sfo=1" />
 
 <p align="left"> <img src=https://pin.it/3ndBXBrnK alt="RushikeshGade" /> </p>
 
