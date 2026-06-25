@@ -1,129 +1,111 @@
-<h1 align="center">Hi 👋, I'm Rushikesh Gade</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Python Developer | Deep Learning Enthusiast</h3>
+# 👋 Hi, I'm Rushikesh Gade
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Deep+Learning+Explorer;Django+Developer;Data+Analytics+Learner" />
-</p>
+### 💻 Python Developer | 🤖 AI & Machine Learning Enthusiast | 📊 Data Analytics | 🌐 Django Developer
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Computer Engineering Student
-- 💻 Passionate about Python, AI, Machine Learning & Deep Learning
-- 🌱 Currently learning Generative AI and Advanced Deep Learning
-- 🔭 Building real-world AI and Web Development projects
-- 📈 Interested in Data Science and Intelligent Systems
-- 🤝 Open to Internship and Collaboration Opportunities
+👨‍💻 I am a **Computer Engineering Student** passionate about building intelligent applications using **Artificial Intelligence, Machine Learning, Deep Learning, and Python**.
 
----
+🧠 I enjoy solving real-world problems through data-driven solutions and continuously improving my programming and software development skills.
 
-## 🛠 Tech Stack
+💡 My interests include **Machine Learning, Deep Learning, Computer Vision, Time Series Forecasting, NLP, Data Analytics, and Full-Stack Web Development**.
 
-### Languages
+🌱 Currently learning **Generative AI, Advanced Deep Learning, FastAPI, Cloud Deployment, and MLOps**.
 
-- Python
-- Java
-- SQL
-- HTML
-- CSS
-- JavaScript
-
-### AI / ML
-
-- Machine Learning
-- Deep Learning
-- TensorFlow
-- Keras
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-
-### Web Development
-
-- Django
-- Streamlit
-- REST API
-
-### Database
-
-- SQLite
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+🎯 My goal is to become a skilled **AI/ML Engineer** and contribute to impactful technology that solves real-world challenges.
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Repositories
 
-### 📈 Stock Price Prediction using LSTM
-- Deep Learning
-- TensorFlow
-- Time Series Forecasting
-
----
-
-### 📄 Intelligent Document Question Answering System
-- NLP
-- PDF Processing
-- Embeddings
-- AI-powered Search
-
----
-
-### 🖼 Image Classification using MobileNetV2
-- Computer Vision
-- Transfer Learning
-- TensorFlow
+| Repository                            | Description                                                  |
+| ------------------------------------- | ------------------------------------------------------------ |
+| 📈 **Reliance_LSTM_Time_Series**      | Stock Price Prediction using LSTM and Deep Learning          |
+| 📄 **Intelligent_Document_QA_System** | AI-powered Document Question Answering System using NLP      |
+| 🖼️ **Image_Classification**          | Real-time Image Classification using MobileNetV2             |
+| 🤖 **Machine_Learning_Projects**      | Collection of Machine Learning algorithms and projects       |
+| 📊 **Data_Analytics_Projects**        | Data Analysis, Visualization, and EDA using Python           |
+| 🌐 **Django_Web_Projects**            | Django CRUD, Authentication, REST APIs, and Web Applications |
+| 🧠 **Deep_Learning_Applications**     | CNN, ANN, RNN, LSTM, Transfer Learning projects              |
+| 🐍 **Python_Programs**                | Python practice programs and logic building                  |
+| ☕ **Java_Programs**                   | Java OOP, Collections, Multithreading, and DSA               |
+| 📚 **Data_Structures**                | Data Structures and Algorithms implementations               |
 
 ---
 
-### 🌐 Django Web Applications
-- Authentication
-- CRUD Operations
-- REST APIs
+# 🛠️ Languages & Tools
+
+### 💻 Programming Languages
+
+* 🐍 Python
+* ☕ Java
+* 🌐 JavaScript
+* 🗄 SQL
+* 🎨 HTML5
+* 🎨 CSS3
+
+
+
+# 📈 GitHub Stats
+
+📊 Daily coding, continuous learning, and building AI-powered applications.
+
+* 🚀 Open Source Learner
+* 💻 Project-Based Learning
+* 📚 Consistent Contributor
+* 🎯 Focused on Quality Code
 
 ---
 
-## 📊 GitHub Stats
+# 🔍 Main Focus
 
-<p align="center">
+🤖 Artificial Intelligence
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RushikeshGade&show_icons=true&theme=tokyonight"/>
+📈 Machine Learning
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RushikeshGade&theme=tokyonight"/>
+🧠 Deep Learning
 
-</p>
+🐍 Python Development
 
----
+🌐 Django Web Development
 
-## 📈 Most Used Languages
+📊 Data Analytics
 
-<p align="center">
+📄 Natural Language Processing (NLP)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshGade&layout=compact&theme=tokyonight"/>
+👁️ Computer Vision
 
-</p>
+📉 Time Series Forecasting
 
----
 
-## 🌐 Connect with Me
 
-- GitHub: https://github.com/RushikeshGade
-- LinkedIn: *(Add your LinkedIn profile)*
+# 🏆 Career Objective
 
----
-
-## 💡 Quote
-
-> *"Learning never stops. Every project is an opportunity to grow and innovate."*
+To build intelligent software solutions that leverage AI and Machine Learning to solve real-world problems while continuously learning modern technologies and contributing to open-source projects.
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+# 📫 Let's Connect
+
+📧 **Email:** rushigade2209@gmail.com
+)
+
+💼 **LinkedIn:** https://linkedin.com/in/your-linkedin
+
+🌐 **GitHub:** https://github.com/RushikeshGade
+
+---
+
+# ⭐ Quote
+
+> **"Learning never stops. Every project is a step toward innovation."**
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories and feel free to connect with me for collaboration, internships, or exciting AI and software development projects.
+
+**Happy Coding! 🚀**
