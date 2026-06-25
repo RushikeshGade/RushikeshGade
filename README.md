@@ -35,57 +35,14 @@
 
 ---
 
-# 🛠️ Languages & Tools
-
-### 💻 Programming Languages
-
-* 🐍 Python
-* ☕ Java
-* 🌐 JavaScript
-* 🗄 SQL
-* 🎨 HTML5
-* 🎨 CSS3
 
 
 
-# 📈 GitHub Stats
-
-📊 Daily coding, continuous learning, and building AI-powered applications.
-
-* 🚀 Open Source Learner
-* 💻 Project-Based Learning
-* 📚 Consistent Contributor
-* 🎯 Focused on Quality Code
-
----
 
 # 🔍 Main Focus
 
-🤖 Artificial Intelligence
+🤖 Artificial Intelligence | 📈 Machine Learning | 🧠 Deep Learning | 🐍 Python Development | 🌐 Django Web Development | 📊 Data Analytics
 
-📈 Machine Learning
-
-🧠 Deep Learning
-
-🐍 Python Development
-
-🌐 Django Web Development
-
-📊 Data Analytics
-
-📄 Natural Language Processing (NLP)
-
-👁️ Computer Vision
-
-📉 Time Series Forecasting
-
-
-
-# 🏆 Career Objective
-
-To build intelligent software solutions that leverage AI and Machine Learning to solve real-world problems while continuously learning modern technologies and contributing to open-source projects.
-
----
 
 # 📫 Let's Connect
 
@@ -96,16 +53,10 @@ To build intelligent software solutions that leverage AI and Machine Learning to
 
 🌐 **GitHub:** https://github.com/RushikeshGade
 
----
 
-# ⭐ Quote
-
-> **"Learning never stops. Every project is a step toward innovation."**
-
----
 
 ### ⭐ Thanks for visiting my profile!
 
 If you like my work, consider giving a ⭐ to my repositories and feel free to connect with me for collaboration, internships, or exciting AI and software development projects.
 
-**Happy Coding! 🚀**
+
