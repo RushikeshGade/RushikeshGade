@@ -1,21 +1,129 @@
-<h1 align="center">Hi 👋, I'm RushikeshGade</h1>
-<h3 align="center">A Passionate Software developer</h3>
+<h1 align="center">Hi 👋, I'm Rushikesh Gade</h1>
+<h3 align="center">Aspiring AI/ML Engineer | Python Developer | Deep Learning Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/1d/28/7c/1d287c58077648764e6a94b69b321956.jpg" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RushikeshGade&label=Profile%20views&color=0e75b6&style=flat" alt="RushikeshGade" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/RUSHIKESHG22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rushikesh22" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rushikesh-gade-a40aaa22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RushikeshGade" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Deep+Learning+Explorer;Django+Developer;Data+Analytics+Learner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RushikeshGade&show_icons=true&locale=en&layout=compact" alt="RushikeshGade" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RushikeshGade&show_icons=true&locale=en" alt="RushikeshGade" /></p>
+- 🎓 Computer Engineering Student
+- 💻 Passionate about Python, AI, Machine Learning & Deep Learning
+- 🌱 Currently learning Generative AI and Advanced Deep Learning
+- 🔭 Building real-world AI and Web Development projects
+- 📈 Interested in Data Science and Intelligent Systems
+- 🤝 Open to Internship and Collaboration Opportunities
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RushikeshGade&" alt="RushikeshGade" /></p>
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+### AI / ML
+
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Keras
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+
+### Web Development
+
+- Django
+- Streamlit
+- REST API
+
+### Database
+
+- SQLite
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+### 📈 Stock Price Prediction using LSTM
+- Deep Learning
+- TensorFlow
+- Time Series Forecasting
+
+---
+
+### 📄 Intelligent Document Question Answering System
+- NLP
+- PDF Processing
+- Embeddings
+- AI-powered Search
+
+---
+
+### 🖼 Image Classification using MobileNetV2
+- Computer Vision
+- Transfer Learning
+- TensorFlow
+
+---
+
+### 🌐 Django Web Applications
+- Authentication
+- CRUD Operations
+- REST APIs
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RushikeshGade&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RushikeshGade&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshGade&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- GitHub: https://github.com/RushikeshGade
+- LinkedIn: *(Add your LinkedIn profile)*
+
+---
+
+## 💡 Quote
+
+> *"Learning never stops. Every project is an opportunity to grow and innovate."*
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
