@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RushikeshGade</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Passionate Software developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/1d/28/7c/1d287c58077648764e6a94b69b321956.jpg" />
 
