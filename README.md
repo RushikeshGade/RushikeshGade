@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rushikesh Gade
+# 👋 Hi, I'm Rushikesh Hanumant Gade
 
 ### 💻 Python Developer | 🤖 AI & Machine Learning Enthusiast | 📊 Data Analytics | 🌐 Django Developer
 
