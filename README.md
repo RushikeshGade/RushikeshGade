@@ -6,7 +6,7 @@
 
 # 🚀 About Me
 
-👨‍💻 I am a **Computer Engineering Student** passionate about building intelligent applications using **Artificial Intelligence, Machine Learning, Deep Learning, and Python**.
+👨‍💻  Passionate about building intelligent applications using **Artificial Intelligence, Machine Learning, Deep Learning, and Python**.
 
 🧠 I enjoy solving real-world problems through data-driven solutions and continuously improving my programming and software development skills.
 
@@ -35,10 +35,6 @@
 
 ---
 
-
-
-
-
 # 🔍 Main Focus
 
 🤖 Artificial Intelligence | 📈 Machine Learning | 🧠 Deep Learning | 🐍 Python Development | 🌐 Django Web Development | 📊 Data Analytics
@@ -47,13 +43,10 @@
 # 📫 Let's Connect
 
 📧 **Email:** rushigade2209@gmail.com
-)
 
 💼 **LinkedIn:** https://linkedin.com/in/your-linkedin
 
 🌐 **GitHub:** https://github.com/RushikeshGade
-
-
 
 ### ⭐ Thanks for visiting my profile!
 
